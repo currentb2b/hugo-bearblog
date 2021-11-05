@@ -1,5 +1,5 @@
 
-baseURL = "https://currentb2b.github.io"
+baseURL = "https://currentb2b.github.io/hugo-bearblog"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
