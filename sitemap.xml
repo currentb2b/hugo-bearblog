@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://currentb2b.github.io/hugo-bearblog/</loc>
+    <loc>https://currentb2b.github.io/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://currentb2b.github.io/hugo-bearblog/blog/</loc>
+    <loc>https://currentb2b.github.io/blog/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://currentb2b.github.io/hugo-bearblog/blog/markdown/</loc>
+    <loc>https://currentb2b.github.io/blog/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://currentb2b.github.io/hugo-bearblog/markdown-syntax-guide/</loc>
+    <loc>https://currentb2b.github.io/markdown-syntax-guide/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://currentb2b.github.io/hugo-bearblog/blog/syntax/</loc>
+    <loc>https://currentb2b.github.io/blog/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://currentb2b.github.io/hugo-bearblog/bear/</loc>
+    <loc>https://currentb2b.github.io/bear/</loc>
   </url><url>
-    <loc>https://currentb2b.github.io/hugo-bearblog/hugo/</loc>
+    <loc>https://currentb2b.github.io/hugo/</loc>
   </url>
 </urlset>

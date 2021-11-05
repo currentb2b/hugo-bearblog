@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://currentb2b.github.io/hugo-bearblog/sitemap.xml
+Sitemap: https://currentb2b.github.io/sitemap.xml
